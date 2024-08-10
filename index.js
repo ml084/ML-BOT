@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["ML COMMUNITY","CREATED BY ML, ML ON TOP, WATCHING MEMBERS"];
 
 
 let currentIndex = 0;
